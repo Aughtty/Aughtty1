@@ -65,14 +65,7 @@ Here are some ideas to get you started:
 
 ### 🎵 Now Playing on Spotify
 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli
-    &cover_image=true
-    &theme=natemoo-re
-    &show_offline=true
-    &background_color=121212
-    &interchange=false
-    &bar_color=53b14f
-    &bar_color_cover=false" 
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
        width="100%" 
        alt="Spotify Now Playing" />
 </a>
