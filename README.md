@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Aughtty/Aughtty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -60,6 +59,15 @@ Here are some ideas to get you started:
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Aughtty/Aughtty/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+### 🎵 Now Playing on Spotify
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&mode=light" width="450" alt="Spotify Now Playing"/>
+  </a>
 </p>
 
 
