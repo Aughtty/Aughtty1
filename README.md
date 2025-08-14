@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **Java, Vue, Spring Boot**
 - 💬 Ask me about **Web development, APIs, and optimization**
-- 📫 Reach me: **yueli98354@gmail.com**
-- ⚡ Fun fact: I love turning coffee into code ☕💻
+
+### 🌤️ Current Weather
+<p align="center">
+  <img src="https://wttr.in/Auckland?format=%C+%t&lang=en" alt="Weather in Auckland, New Zealand" />
+</p>
 
 ---
 
@@ -70,8 +73,8 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 Visitors
+### 📜 Daily Quote
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aughtty&label=Profile%20views&color=0e75b6&style=flat" alt="Aughtty" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>
 </p>
 
