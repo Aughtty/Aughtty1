@@ -49,18 +49,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
 </p>
 
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aughtty&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-
-### 🌟 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aughtty&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
