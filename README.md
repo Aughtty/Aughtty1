@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 🌤️ Current Weather
 <p align="center">
-  <img src="https://wttr.in/Auckland?format=%C+%t&lang=en" alt="Weather in Auckland, New Zealand" />
+  <img src="https://wttr.in/Auckland.png?format=%C+%t&lang=en" alt="Weather in Auckland" />
 </p>
 
 ---
