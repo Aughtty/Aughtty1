@@ -69,7 +69,7 @@ Here are some ideas to get you started:
     &cover_image=true
     &theme=natemoo-re
     &show_offline=true
-    &offline_image=https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg
+    
     &background_color=121212
     &interchange=false
     &bar_color=53b14f
