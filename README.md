@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **Java, Vue, Spring Boot**
 - 💬 Ask me about **Web development, APIs, and optimization**
-- 📫 Reach me: **your-email@example.com**
+- 📫 Reach me: **yueli98354@gmail.com**
 - ⚡ Fun fact: I love turning coffee into code ☕💻
 
 ---
