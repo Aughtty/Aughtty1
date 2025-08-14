@@ -14,3 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Aughtty</h1>
+<h3 align="center">🚀 A passionate developer exploring the full-stack world</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full-stack+developer+in+progress;Love+code,+coffee+and+creativity" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+- 🌱 Currently learning **Java, Vue, Spring Boot**
+- 💬 Ask me about **Web development, APIs, and optimization**
+- 📫 Reach me: **your-email@example.com**
+- ⚡ Fun fact: I love turning coffee into code ☕💻
+
+---
+
+### 🛠️ Tech Stack
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aughtty&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+### 🌟 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aughtty&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Aughtty/Aughtty/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+### 📈 Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aughtty&label=Profile%20views&color=0e75b6&style=flat" alt="Aughtty" />
+</p>
+
