@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **Java, Vue, Spring Boot**
 - 💬 Ask me about **Web development, APIs, and optimization**
 
-### 🌤️ Current Weather
+### 📜 Daily Quote
 <p align="center">
-  <img src="https://github-readme-weather-api.vercel.app/weather?city=Auckland&theme=radical" alt="Weather in Auckland" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>
 </p>
 
 ---
@@ -57,7 +57,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
----
 
 ### 🌟 Top Languages
 <p align="center">
@@ -71,10 +70,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/Aughtty/Aughtty/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
----
-
-### 📜 Daily Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>
-</p>
 
