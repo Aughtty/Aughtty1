@@ -32,25 +32,23 @@ Here are some ideas to get you started:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>
 </p>
 
-<table>
-<tr>
-<td width="50%" align="center">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-### 📜 Daily Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>
+  <div>
+    <h3>📜 Daily Quote</h3>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote"/>
+  </div>
 
-</td>
-<td width="50%" align="center">
+  <div>
+    <h3>🎵 Now Playing on Spotify</h3>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&cover_image=true&theme=default&show_offline=true&offline_image=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAughtty%2FAughtty%40main%2Fassets%2Fdefault_March7.jpg&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
+           alt="Spotify Now Playing" />
+    </a>
+  </div>
 
-### 🎵 Now Playing on Spotify
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&cover_image=true&theme=default&show_offline=true&offline_image=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAughtty%2FAughtty%40main%2Fassets%2Fdefault_March7.jpg&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
-       alt="Spotify Now Playing" />
-</a>
+</div>
 
-</td>
-</tr>
-</table>
 
 
 ---
