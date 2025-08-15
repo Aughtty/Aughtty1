@@ -1,18 +1,3 @@
-
-<!--
-**Aughtty/Aughtty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aughtty</h1>
 <h3 align="center">🚀 A passionate developer exploring the full-stack world</h3>
@@ -63,7 +48,6 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
 ### 🎵 Now Playing on Spotify
 <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&cover_image=true&theme=default&show_offline=true&offline_image=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAughtty%2FAughtty%40main%2Fassets%2Fdefault_March7.jpg&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
