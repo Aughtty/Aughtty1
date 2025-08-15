@@ -14,8 +14,9 @@
 
 ### 📜 Daily Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" style="width:100%;max-width:1000px;"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 </p>
+
 
 
 
