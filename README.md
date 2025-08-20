@@ -18,9 +18,11 @@
 </p>
 
 ### 📜 Daily Quote
+<!-- Daily Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Daily Quote" />
 </p>
+
 
 
 
