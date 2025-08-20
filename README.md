@@ -11,7 +11,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- 左侧：About Me + Daily Quote -->
-  <div style="flex: 1; min-width: 0; max-width: 60%;">
+  <div style="flex: 1; max-width: 55%; min-width: 200px; word-wrap: break-word;">
     
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **Spring Boot, Java, Vue**, with a focus on full-stack architecture
@@ -27,13 +27,14 @@
   </div>
 
   <!-- 右侧：图片 -->
-  <div style="flex: 0 0 35%; min-width: 200px;">
+  <div style="flex: 0 0 40%; min-width: 150px;">
     <p>
       <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" style="width: 100%; height: auto; object-fit: cover;" />
     </p>
   </div>
 
 </div>
+
 
 
 
