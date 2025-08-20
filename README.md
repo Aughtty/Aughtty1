@@ -17,7 +17,7 @@
 <!-- Daily Quote & Hobby Side by Side -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" height="250">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里是空格，数量可调 -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里是空格，数量可调 -->
   <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" height="250">
 </p>
 
