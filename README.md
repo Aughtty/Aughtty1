@@ -20,7 +20,7 @@
   <!-- 左图 -->
   <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" alt="left" align="left" height="250">
   <!-- 右图 -->
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="right" align="right" height="300">
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="right" align="right" height="250" style="margin-right: -30px;">
 </p>
 
 <!-- 用这个清除浮动，避免后续内容被图片环绕 -->
