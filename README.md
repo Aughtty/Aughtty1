@@ -9,8 +9,10 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🌱 Currently learning **Java, Vue, Spring Boot**
-- 💬 Ask me about **Web development, APIs, and optimization**
+- 🌱 Currently learning **Spring Boot, Java, Vue**, with a focus on full-stack architecture
+- 💬 Passionate about **web backend design, API optimization, and system scalability**
+- ☕ Big fan of **coffee + coding marathons**, enjoy solving algorithm problems and exploring new frameworks
+- 🎮 Outside of coding: a fan of **Honkai: Star Rail**, tech gadgets, and creative ways to blend work with play
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" width="100%" />
 </p>
