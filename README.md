@@ -59,7 +59,7 @@
 
 ### 🎮 Hobbies & Interests
 <p align="center">
-  <img src="https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAughtty%2FAughtty%40main%2Fassets%2Fdefault_March7.jpg" alt="Hobby" width="100%" />
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" width="100%" />
 </p>
 
 
