@@ -8,32 +8,20 @@
 
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- 左侧：About Me + Daily Quote -->
-  <div style="flex: 1; max-width: 55%; min-width: 200px; word-wrap: break-word;">
-    
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **Spring Boot, Java, Vue**, with a focus on full-stack architecture
 - 💬 Passionate about **web backend design, API optimization, and system scalability**
 - ☕ Big fan of **coffee + coding marathons**, enjoy solving algorithm problems and exploring new frameworks
 - 🎮 Outside of coding: a fan of **Honkai: Star Rail**, tech gadgets, and creative ways to blend work with play
-
-### 📜 Daily Quote
-<p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Daily Quote" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" width="100%" />
 </p>
 
-  </div>
-
-  <!-- 右侧：图片 -->
-  <div style="flex: 0 0 40%; min-width: 150px;">
-    <p>
-      <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" style="width: 100%; height: auto; object-fit: cover;" />
-    </p>
-  </div>
-
-</div>
+### 📜 Daily Quote
+<!-- Daily Quote -->
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight" alt="Daily Quote" />
+</p>
 
 
 
