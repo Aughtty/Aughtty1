@@ -16,8 +16,9 @@
 
 <!-- Daily Quote -->
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" width="100%" />
+  <img src="https://img.shields.io/badge/✨%20Daily%20Quote-Always%20Keep%20Learning%20✨-blue" alt="Daily Quote">
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" width="100%" />
