@@ -14,17 +14,24 @@
 - ☕ Big fan of **coffee + coding marathons**, enjoy solving algorithm problems and exploring new frameworks
 - 🎮 Outside of coding: a fan of **Honkai: Star Rail**, tech gadgets, and creative ways to blend work with play
 
-<!-- Daily Quote -->
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=tokyonight&width=1000&theme=light" alt="Daily Quote" />
-</p>
+<!-- Daily Quote & Hobby Side by Side -->
+<table>
+  <tr>
+    <td>
+      <!-- Daily Quote -->
+      <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" 
+           alt="Daily Quote" 
+           style="max-width:450px; height:auto; border:none;" />
+    </td>
+    <td>
+      <!-- Hobby Image -->
+      <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" 
+           alt="Hobby" 
+           style="max-width:450px; height:auto; border:none;" />
+    </td>
+  </tr>
+</table>
 
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" width="100%" />
-</p>
 
 
 
