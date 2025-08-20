@@ -11,11 +11,16 @@
 ### 🧑‍💻 About Me
 - 🌱 Currently learning **Java, Vue, Spring Boot**
 - 💬 Ask me about **Web development, APIs, and optimization**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" width="100%" />
+</p>
 
 ### 📜 Daily Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
 </p>
+
+
 
 
 
@@ -57,10 +62,7 @@
 </a>
 
 
-### 🎮 Hobbies & Interests
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="Hobby" width="100%" />
-</p>
+
 
 
 
