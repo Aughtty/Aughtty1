@@ -15,13 +15,11 @@
 - 🎮 Outside of coding: a fan of **Honkai: Star Rail**, tech gadgets, and creative ways to blend work with play
 
 <!-- Daily Quote & Hobby Side by Side -->
-<!-- 左右各一张，等比例缩放 & 无边框（GitHub 对 <img> 默认无边框） -->
-<p>
-  <!-- 左图 -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" alt="left" align="left" height="250" >
-  <!-- 右图 -->
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="right" align="right" height="250" width="50%">
+<p style="text-align:center;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" alt="left" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="right" height="250" style="display:inline-block;">
 </p>
+
 
 <!-- 用这个清除浮动，避免后续内容被图片环绕 -->
 <br clear="both" />
