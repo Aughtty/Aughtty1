@@ -15,7 +15,7 @@
 - 🎮 Outside of coding: a fan of **Honkai: Star Rail**, tech gadgets, and creative ways to blend work with play
 
 <!-- Daily Quote -->
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=900" alt="Daily Quote" />
 </p>
 
