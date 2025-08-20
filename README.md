@@ -16,7 +16,7 @@
 
 <!-- Daily Quote & Hobby Side by Side -->
 <p style="text-align:center;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" alt="left" height="250" style="display:inline-block; margin-right:10px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" alt="left" height="250" style="display:inline-block; margin-right:50px;">
   <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="right" height="250" style="display:inline-block;">
 </p>
 
