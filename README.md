@@ -32,6 +32,18 @@
   </tr>
 </table>
 
+<!-- 左右各一张，等比例缩放 & 无边框（GitHub 对 <img> 默认无边框） -->
+<p>
+  <!-- 左图 -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" alt="left" align="left" height="200">
+  <!-- 右图 -->
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="right" align="right" height="200">
+</p>
+
+<!-- 用这个清除浮动，避免后续内容被图片环绕 -->
+<br clear="both" />
+
+
 
 
 
