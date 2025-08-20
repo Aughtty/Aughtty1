@@ -16,8 +16,9 @@
 
 <!-- Daily Quote -->
 <p align="center">
-  <img src="https://img.shields.io/badge/✨%20Daily%20Quote-Always%20Keep%20Learning%20✨-blue" alt="Daily Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&width=850" alt="Daily Quote" />
 </p>
+
 
 
 <p align="center">
