@@ -14,23 +14,22 @@
 - ☕ Big fan of **coffee + coding marathons**, enjoy solving algorithm problems and exploring new frameworks
 - 🎮 Outside of coding: a fan of **Honkai: Star Rail**, tech gadgets, and creative ways to blend work with play
 
-<!-- Daily Quote & Hobby Side by Side -->
-<table style="border-collapse: collapse; border: none; width: 100%;">
-  <tr>
-    <!-- 左侧图片靠左 -->
-    <td style="border: none; padding: 0; text-align: left;">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" 
-           alt="Daily Quote" 
-           style="height:200px; width:auto; border:none;" />
-    </td>
-    <!-- 右侧图片靠右 -->
-    <td style="border: none; padding: 0; text-align: right;">
-      <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" 
-           alt="Hobby" 
-           style="height:200px; width:auto; border:none;" />
-    </td>
-  </tr>
-</table>
+<!-- Daily Quote Left & Hobby Right -->
+<p>
+  <!-- 左侧每日一句 -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" 
+       alt="Daily Quote" 
+       style="float: left; height:200px; width:auto; margin-right: 10px;" />
+
+  <!-- 右侧兴趣爱好 -->
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" 
+       alt="Hobby" 
+       style="float: right; height:200px; width:auto; margin-left: 10px;" />
+</p>
+
+<!-- 清除浮动，避免影响下方内容 -->
+<div style="clear: both;"></div>
+
 
 
 
