@@ -16,7 +16,7 @@
 
 <!-- Daily Quote -->
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=900" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&width=900&theme=light" alt="Daily Quote" />
 </p>
 
 
