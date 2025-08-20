@@ -15,22 +15,20 @@
 - 🎮 Outside of coding: a fan of **Honkai: Star Rail**, tech gadgets, and creative ways to blend work with play
 
 <!-- Daily Quote & Hobby Side by Side -->
-<table>
-  <tr>
-    <td>
-      <!-- Daily Quote -->
-      <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" 
-           alt="Daily Quote" 
-           style="max-width:450px; height:auto; border:none;" />
-    </td>
-    <td>
-      <!-- Hobby Image -->
-      <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" 
-           alt="Hobby" 
-           style="max-width:450px; height:auto; border:none;" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+
+  <!-- Daily Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" 
+       alt="Daily Quote" 
+       style="height:200px; width:auto; border:none;" />
+
+  <!-- Hobby Image -->
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" 
+       alt="Hobby" 
+       style="height:200px; width:auto; border:none;" />
+
+</div>
+
 
 
 
