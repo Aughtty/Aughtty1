@@ -57,3 +57,11 @@
 </a>
 
 
+### 🎮 Hobbies & Interests
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.png" alt="Hobby" width="100%" />
+</p>
+
+
+
+
