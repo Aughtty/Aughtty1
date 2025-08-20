@@ -18,9 +18,9 @@
 <!-- 左右各一张，等比例缩放 & 无边框（GitHub 对 <img> 默认无边框） -->
 <p>
   <!-- 左图 -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="left" align="left" height="150">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="left" align="left" height="130">
   <!-- 右图 -->
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="right" align="right" height="150">
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" alt="right" align="right" height="130">
 </p>
 
 <!-- 用这个清除浮动，避免后续内容被图片环绕 -->
