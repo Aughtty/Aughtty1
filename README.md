@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full-stack+developer+in+progress;Love+code,+coffee+and+creativity" />
 </p>
 
+![Profile views](https://komarev.com/ghpvc/?username=Aughtty&color=blue) 
+
 ---
 
 ### 🧑‍💻 About Me
