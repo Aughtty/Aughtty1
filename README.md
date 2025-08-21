@@ -21,12 +21,8 @@
   <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" height="250">
 </p>
 
-
-
 <!-- 用这个清除浮动，避免后续内容被图片环绕 -->
 <br clear="both" />
-
-
 
 
 ---
@@ -45,7 +41,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aughtty&show_icons=true&theme=buefy" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aughtty&show_icons=true&theme=buefy&hide_border=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=buefy" alt="GitHub Streak" height="165"/>
 </p>
 
