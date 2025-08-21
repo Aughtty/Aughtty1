@@ -10,6 +10,7 @@
 </p>
 
 
+
 ---
 
 ### 🧑‍💻 About Me
@@ -24,9 +25,9 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里是空格，数量可调 -->
   <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/default_March7.jpg" height="250">
 </p>
-
 <!-- 用这个清除浮动，避免后续内容被图片环绕 -->
 <br clear="both" />
+
 
 
 ---
@@ -50,12 +51,16 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=buefy" alt="GitHub Streak" height="165"/>
 </p>
 
+
+
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
   <img src="https://github.com/Aughtty/Aughtty/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
+
+
 
 ---
 ### 🎵 Now Playing on Spotify
