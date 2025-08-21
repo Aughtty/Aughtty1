@@ -1,13 +1,14 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aughtty</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aughtty&color=red&style=flat-square" />
+</p>
 <h3 align="center">🚀 A passionate developer exploring the full-stack world</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full-stack+developer+in+progress;Love+code,+coffee+and+creativity" />
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aughtty&color=brightgreen&style=for-the-badge" alt="profile views"/>
-</p>
+
 
 ---
 
