@@ -1,8 +1,8 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Aughtty</h1>
-<p align="center">
+<h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=Aughtty&color=red&style=flat-square" />
-</p>
+</h2>
 <h3 align="center">🚀 A passionate developer exploring the full-stack world</h3>
 
 <p align="center">
