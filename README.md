@@ -45,7 +45,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aughtty&show_icons=false&theme=buefy" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aughtty&show_icons=true&theme=buefy" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=buefy" alt="GitHub Streak" height="165"/>
 </p>
 
