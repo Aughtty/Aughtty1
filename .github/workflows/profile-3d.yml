@@ -16,7 +16,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate 3D profile
-        uses: yoshi389111/github-profile-3d-contrib@lastest
+        uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}   # 更改为所有仓库权限（需要申请PAT）
           USERNAME: ${{ github.repository_owner }}
