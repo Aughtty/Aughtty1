@@ -20,6 +20,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}   # 更改为所有仓库权限（需要申请PAT）
           USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 1000
 
       - name: Commit & Push
         run: |
