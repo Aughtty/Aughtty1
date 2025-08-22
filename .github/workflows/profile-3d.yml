@@ -18,7 +18,7 @@ jobs:
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}   # 更改为所有仓库权限
           USERNAME: ${{ github.repository_owner }}
 
       - name: Commit & Push
