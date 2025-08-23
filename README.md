@@ -51,7 +51,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=buefy" alt="GitHub Streak" height="165"/>
 </p>
 
-[![3D Contributions](https://raw.githubusercontent.com/Aughtty/Aughtty/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Aughtty/Aughtty) 
+[![3D Contributions](https://raw.githubusercontent.com/Aughtty/Aughtty/main/profile-3d-contrib/profile-season-animate.svg)](https://github.com/Aughtty/Aughtty) 
 
 
 ---
