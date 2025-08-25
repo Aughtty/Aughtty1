@@ -48,7 +48,7 @@
 <p align="center">
   <!-- 设置两者粗细一样 -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aughtty&show_icons=true&theme=buefy&border_color=A8A8A8&rank_icon=github" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Aughtty&theme=buefy" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=buefy" alt="GitHub Streak" height="165"/>
 </p>
 
 [![3D Contributions](https://raw.githubusercontent.com/Aughtty/Aughtty/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Aughtty/Aughtty) 
