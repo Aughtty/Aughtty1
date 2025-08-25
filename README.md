@@ -71,7 +71,7 @@
          alt="Spotify Now Playing" height="290px"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/spotify-top-svgs/purple.svg" alt="My Top Spotify Tracks" height="290px"/>
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/spotify-top-svgs/green.svg" alt="My Top Spotify Tracks" height="290px"/>
 </p>
 
 
