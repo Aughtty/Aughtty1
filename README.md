@@ -72,6 +72,11 @@
   </a>
 </p>
 
+## 🎧 Spotify Status
+
+![My Top Spotify Tracks](https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/spotify-top.svg)
+
+
 
 
 
