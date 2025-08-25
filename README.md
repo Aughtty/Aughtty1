@@ -64,17 +64,18 @@
 
 
 ---
-### 🎵 Now Playing on Spotify
-<p align="center">
+### 🎧 Spotify Status
+<p align="left">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31dt7jfetfjlk7ko3ssjpccgovli&cover_image=true&theme=default&show_offline=true&offline_image=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FAughtty%2FAughtty%40main%2Fassets%2Fdefault_March7.jpg&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" 
          alt="Spotify Now Playing" />
   </a>
+
+  ![My Top Spotify Tracks](https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/spotify-top.svg)
 </p>
 
-## 🎧 Spotify Status
 
-![My Top Spotify Tracks](https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/spotify-top.svg)
+
 
 
 
