@@ -18,12 +18,14 @@
 - 💬 Passionate about **web backend design, API optimization, and system scalability**
 - ☕ Big fan of **coffee + coding marathons**, enjoy solving algorithm problems and exploring new frameworks
 - 🎮 Outside of coding: a fan of **Honkai: Star Rail**, tech gadgets, and creative ways to blend work with play
+- 📚 Favorite novel: **Lord of the Mysteries**, with **Audrey Hall** as my most beloved character
+
 
 <!-- Daily Quote & Hobby Side by Side -->
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" height="300">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里是空格，数量可调 -->
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/Audrey_Hall.jpg" height="300">
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/Aufrey_Hall_4824x2160.jpg" height="300">
 </p>
 <!-- 用这个清除浮动，避免后续内容被图片环绕 -->
 <br clear="both" />
