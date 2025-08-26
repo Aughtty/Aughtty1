@@ -12,7 +12,7 @@ LIMIT = int(os.getenv("SPOTIFY_LIMIT", "5"))
 # 定义多种风格
 STYLES = [
     # ===================== 颜色风格 =====================
-    # 0. 蓝色风格, 为默认风格
+    # 0. 蓝色风格
     {
         "name": "blue",
         "bg": "#0d1117",  # 背景色：非常深的蓝黑色
@@ -49,19 +49,15 @@ STYLES = [
     # 4. 紫色风格
     {
         "name": "purple",
-        "bg": "#0d0d1a",    # 背景色：非常深的紫黑色
+        "bg": "#0d0d1a",  # 背景色：非常深的紫黑色
         "card": "#1b1b2f",  # 卡片背景色：比背景稍浅的深紫色
-        "title": "#d0c0ff", # 标题文字色：浅紫色
+        "title": "#d0c0ff",  # 标题文字色：浅紫色
         "subtitle": "#b0a0ff",  # 副标题文字色：中紫色
         "text": "#e0dfff",  # 正文文字色：接近白色
-        "accent": "#a070ff",    # 强调色：亮紫色
-        "bar_bg": "#3a3a50"     # 进度条背景色：暗紫色
+        "accent": "#a070ff",  # 强调色：亮紫色
+        "bar_bg": "#3a3a50"  # 进度条背景色：暗紫色
     },
-
-
 ]
-
-
 
 # ===================== 功能函数 =====================
 def get_access_token():
@@ -89,16 +85,27 @@ def time_range_label(tr):
 
 def esc(s): return html.escape(s, quote=True)
 
-def build_svg(tracks, style):
-    width = 720
+# ===================== 修改: 调整宽度和进度条比例 =====================
+def build_svg(tracks, style, size="medium"):
+    if size == "small":
+        width = 360
+        bar_ratio = 0.75
+    elif size == "large":
+        width = 1080
+        bar_ratio = 0.85
+    else:
+        width = 720
+        bar_ratio = 0.75
+
     row_h = 36
     padding_top = 100
     padding_side = 24
     gap = 12
     height = padding_top + len(tracks)*(row_h+gap)+36
 
-    # 计算条长度（按排名衰减）
-    max_bar = width - padding_side*2 - 160
+    # 新计算方式：让进度条占比更合理
+    max_bar = int(width * bar_ratio)
+
     lengths = []
     for i in range(len(tracks)):
         w = 1 - i*0.12
@@ -138,6 +145,7 @@ def build_svg(tracks, style):
     svg_parts.append("</svg>")
     return "\n".join(svg_parts)
 
+# ===================== 修改2: 在 main() 里生成三种大小 =====================
 def main():
     token = get_access_token()
     tracks = fetch_top_tracks(token)
@@ -145,10 +153,11 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
 
     for style in STYLES:
-        svg = build_svg(tracks, style)
-        out_path = out_dir / f"{style['name']}.svg"
-        out_path.write_text(svg, encoding="utf-8")
-        print(f"Generated {out_path}")
+        for size in ["small", "medium", "large"]:  # 生成三种大小
+            svg = build_svg(tracks, style, size=size)
+            out_path = out_dir / f"{style['name']}_{size}.svg"
+            out_path.write_text(svg, encoding="utf-8")
+            print(f"Generated {out_path}")
 
 if __name__ == "__main__":
     main()
