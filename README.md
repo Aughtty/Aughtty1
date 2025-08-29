@@ -35,6 +35,7 @@
 ---
 
 ### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,python,vue,spring,mysql,redis,nginx,git,github,linux,vscode,idea,pycharm,docker&theme=light)](https://github.com/Aughtty)
 <p align="left">
    <!-- Frameworks -->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
