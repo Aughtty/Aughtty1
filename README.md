@@ -36,16 +36,6 @@
 
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,python,vue,spring,mysql,redis,nginx,git,github,linux,vscode,idea,pycharm,docker&theme=light)](https://github.com/Aughtty)
-<p align="left">
-   <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
-</p>
 
 ### 📊 GitHub Stats
 <p align="center">
