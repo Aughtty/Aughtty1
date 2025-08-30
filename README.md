@@ -35,7 +35,8 @@
 ---
 
 ### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,python,vue,spring,mysql,redis,nginx,git,github,linux,vscode,idea,pycharm,docker&theme=light)](https://github.com/Aughtty)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,vue,spring,anaconda,mysql,redis,linux,vscode,idea,pycharm,markdown,github,instagram&theme=light)](https://github.com/Aughtty)
+[![Learning](https://skillicons.dev/icons?i=go,docker,pytorch,kubernetes,ts,vercel,react,git,nginx&theme=light&perline=10)](https://github.com/Aughtty)
 
 ### 📊 GitHub Stats
 <p align="center">
