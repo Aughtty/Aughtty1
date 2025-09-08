@@ -22,13 +22,9 @@
 
 
 <!-- Daily Quote & Hobby Side by Side -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vercel&theme=light" height="230">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- 这里是空格，数量可调 -->
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/Aufrey_Hall_4824x2160.jpg" height="230">
-</p>
-<!-- 用这个清除浮动，避免后续内容被图片环绕 -->
-<br clear="both" />
+
+<img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/Aufrey_Hall_4824x2160.jpg" >
+
 
 
 
