@@ -23,7 +23,7 @@
 
 <!-- Daily Quote & Hobby Side by Side -->
 
-<img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/assets/Aufrey_Hall_4824x2160.jpg" >
+<img src="https://raw.githubusercontent.com/Aughtty/Aughtty1/main/assets/Aufrey_Hall_4824x2160.jpg" >
 
 
 
@@ -41,14 +41,14 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aughtty&theme=buefy" alt="GitHub Streak" height="165"/>
 </p>
 
-[![3D Contributions](https://raw.githubusercontent.com/Aughtty/Aughtty/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Aughtty/Aughtty) 
+[![3D Contributions](https://raw.githubusercontent.com/Aughtty/Aughtty1/main/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Aughtty/Aughtty1) 
 
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Aughtty/Aughtty/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github.com/Aughtty/Aughtty1/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 
@@ -62,7 +62,7 @@
          alt="Spotify Now Playing" height="400px"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty/main/spotify-top-svgs/green_small.svg" alt="My Top Spotify Tracks" height="400px"/>
+  <img src="https://raw.githubusercontent.com/Aughtty/Aughtty1/main/spotify-top-svgs/green_small.svg" alt="My Top Spotify Tracks" height="400px"/>
 </p>
 
 
