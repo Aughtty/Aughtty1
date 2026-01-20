@@ -23,7 +23,7 @@
 
 <!-- Daily Quote & Hobby Side by Side -->
 
-<img src="https://raw.githubusercontent.com/Aughtty/Aughtty1/main/assets/Aufrey_Hall_4824x2160.jpg" >
+<img src="https://raw.githubusercontent.com/Aughtty/Aughtty1/main/assets/Aufrey_Hall_4824x2160.jpg" alt="Audrelly Hall">
 
 
 
